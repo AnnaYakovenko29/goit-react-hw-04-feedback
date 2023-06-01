@@ -1,0 +1,10 @@
+.statistics {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+}
+
+.titleStatistics {
+  font-size: 20px;
+  font-weight: 400;
+}
